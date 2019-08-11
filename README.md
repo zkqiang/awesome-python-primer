@@ -137,7 +137,8 @@
 
 * * * 
 
+
 ## 欢迎关注
-![微信公众号：面向人生编程](https://upload-images.jianshu.io/upload_images/16985728-b725a2ae6c5d8b16.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![微信公众号：面向人生编程](http://static.zkqiang.cn/images/20190802162214.jpg-slim)
 
 编程思维不应只存留在代码之中，更应伴随于整个人生旅途，这个公众号不只聊技术，还会聊产品/互联网/职场等广泛话题，所以也欢迎非程序员关注。
