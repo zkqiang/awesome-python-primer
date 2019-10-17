@@ -32,7 +32,7 @@
 
 #### 视频类（全学）
 [Python 网络爬虫与信息提取_北京理工大学_中国大学MOOC](https://www.icourse163.org/course/BIT-1001870001)  
-[零基础入门 Python3 爬虫_崔庆才](https://www.bilibili.com/video/av18202461)
+[零基础入门 Python3 爬虫_崔庆才](https://edu.hellobi.com/course/157)
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
@@ -53,6 +53,7 @@
 [Flask Web开发实战（狼书）— 强烈推荐](https://book.douban.com/subject/30310340/)  
 [Flask Web开发（狗书）](https://book.douban.com/subject/26274202/)  
 [JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)
+[CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
@@ -69,8 +70,9 @@
 #### 书籍类（任选）
 [图解HTTP — 零基础必读](https://book.douban.com/subject/25863515/)  
 [HTTP权威指南](https://book.douban.com/subject/10746113/)  
+[Django企业开发实战](https://book.douban.com/subject/30434690/)
 [JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)  
-(无 Django 类中文书籍，建议看文档)
+[CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
@@ -139,6 +141,6 @@
 
 
 ## 欢迎关注
-![微信公众号：面向人生编程](http://static.zkqiang.cn/images/20190802162214.jpg-slim)
+![微信公众号：面向人生编程](https://static.zkqiang.cn/images/20190802162214.jpg-slim)
 
 编程思维不应只存留在代码之中，更应伴随于整个人生旅途，这个公众号不只聊技术，还会聊产品/互联网/职场等广泛话题，所以也欢迎非程序员关注。
