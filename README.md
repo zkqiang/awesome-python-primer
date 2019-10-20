@@ -52,7 +52,7 @@
 [HTTP权威指南](https://book.douban.com/subject/10746113/)  
 [Flask Web开发实战（狼书）— 强烈推荐](https://book.douban.com/subject/30310340/)  
 [Flask Web开发（狗书）](https://book.douban.com/subject/26274202/)  
-[JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)
+[JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)  
 [CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
 
 #### 文档类（全学）
@@ -70,7 +70,7 @@
 #### 书籍类（任选）
 [图解HTTP — 零基础必读](https://book.douban.com/subject/25863515/)  
 [HTTP权威指南](https://book.douban.com/subject/10746113/)  
-[Django企业开发实战](https://book.douban.com/subject/30434690/)
+[Django企业开发实战](https://book.douban.com/subject/30434690/)  
 [JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)  
 [CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
 
