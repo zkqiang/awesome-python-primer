@@ -59,11 +59,12 @@
 
 #### 书籍类（任选）
 [图解HTTP — 零基础必读](https://item.jd.com/1179243750.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=fd56d83454434af7953d5d0df0c2c5bf) 
-[Flask Web开发实战（狼书）— 必读](https://item.jd.com/32885183767.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=f286c6172dbd4b02b2e1ce1725e7fddd)  
+[Flask Web开发实战（狼书） -- 必读，Flask 核心开发创作](https://item.jd.com/32885183767.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=f286c6172dbd4b02b2e1ce1725e7fddd)  
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
-[Flask 官方文档翻译](http://docs.jinkan.org/docs/flask/)  
+[Flask 官方文档翻译](http://docs.jinkan.org/docs/flask/) 
+[Flask 入门教程 -- 强推，Flask 核心开发创作](http://helloflask.com/tutorial/)
 [Flask mega-tutorial 中文翻译 — Web微框架指南](http://www.pythondoc.com/flask-mega-tutorial/)  
 [Jinja2 官方文档翻译](http://docs.jinkan.org/docs/jinja2/)  
 
