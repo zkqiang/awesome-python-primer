@@ -5,13 +5,12 @@
 > 通过本文链接资源坚持学习，可真正的零基础自学入门 Python ，实测已帮助两位零编程基础的朋友入门。  
 > 本索引清单将长期更新，更替更好的资源，请收藏的同时别忘了点个赞！也欢迎通过私信等方式补充推荐。
 
-## 1\. 语法基础
+## 1.1 语言基础
 
 #### 书籍类（任选)
-[Python 编程：从入门到实践](https://book.douban.com/subject/26829016/)  
-[Python 编程快速上手](https://book.douban.com/subject/26836700/)  
-[“笨办法”学 Python](https://book.douban.com/subject/26264642/)  
-[Python 核心编程（第二版）— 适合有编程基础](https://book.douban.com/subject/3112503/)
+[Python 编程：从入门到实践](https://item.jd.com/11993134.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=3a5041eb2363478d977b6ce59798dcc2)  
+[Python 游戏编程快速上手 -- 通过游戏趣味入门](https://item.jd.com/12202703.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=281a2ca3f6a74137b27bb9a8b171b61c) 
+[Python 核心编程 -- 适合有编程基础](https://item.jd.com/10062788.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=3386f9ebe12c46ffb44e4a9c494004aa)
 
 #### 视频类（任选）
 [小甲鱼零基础入门 Python](https://www.bilibili.com/video/av27789609)  
@@ -24,11 +23,22 @@
 
 * * *
 
+## 1.2 语言进阶
+
+#### 书籍类（任选)
+[流畅的 Python -- 必读经典](https://item.jd.com/12186192.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=b13a193f9b934ac5a3d91bb5b338c120)
+[Python Cookbook -- 必读经典](https://item.jd.com/11681561.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=cd8772417e5a43fd91e4ef3f69e65527)
+[图解数据结构 Python 版](https://item.jd.com/12336391.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=9464e258ce0546cba144091d8fdfb4f6)
+[Python 3 面向对象编程 -- Web开发必读](https://item.jd.com/12385123.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=78fedcb68cba49d681fa7590b62fe954)
+
+* * *
+
 ## 2.1 爬虫基础
 
 #### 书籍类（任选）
-[图解HTTP — 零基础必读](https://book.douban.com/subject/25863515/)  
-[Python3 网络爬虫开发实战](https://book.douban.com/subject/30175598/)
+[图解HTTP — 零基础必读](https://item.jd.com/1179243750.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=fd56d83454434af7953d5d0df0c2c5bf)
+[Python3 网络爬虫开发实战 -- 必读](https://item.jd.com/49825026628.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=c5522372b8fb464dbb98a26ec96aae36)
+[Android软件安全权威指南 -- 爬虫逆向进阶](https://item.jd.com/45942848920.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=7e35b89bfe3f41189ecb222c7f111a50)
 
 #### 视频类（全学）
 [Python 网络爬虫与信息提取_北京理工大学_中国大学MOOC](https://www.icourse163.org/course/BIT-1001870001)  
@@ -45,49 +55,53 @@
 
 * * *
 
-## 2.2 Flask Web开发基础
+## 2.2 Flask 框架
 
 #### 书籍类（任选）
-[图解HTTP — 零基础必读](https://book.douban.com/subject/25863515/)  
-[HTTP权威指南](https://book.douban.com/subject/10746113/)  
-[Flask Web开发实战（狼书）— 强烈推荐](https://book.douban.com/subject/30310340/)  
-[Flask Web开发（狗书）](https://book.douban.com/subject/26274202/)  
-[JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)  
-[CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
+[图解HTTP — 零基础必读](https://item.jd.com/1179243750.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=fd56d83454434af7953d5d0df0c2c5bf) 
+[Flask Web开发实战（狼书）— 必读](https://item.jd.com/32885183767.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=f286c6172dbd4b02b2e1ce1725e7fddd)  
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
 [Flask 官方文档翻译](http://docs.jinkan.org/docs/flask/)  
 [Flask mega-tutorial 中文翻译 — Web微框架指南](http://www.pythondoc.com/flask-mega-tutorial/)  
 [Jinja2 官方文档翻译](http://docs.jinkan.org/docs/jinja2/)  
-[JavaScript 教程](http://www.w3school.com.cn/js/index.asp)  
-[Vue.js 官方中文文档](https://cn.vuejs.org/v2/guide/index.html)
 
 * * *
 
-## 2.3 Django Web开发基础
+## 2.3 Django 框架
 
 #### 书籍类（任选）
-[图解HTTP — 零基础必读](https://book.douban.com/subject/25863515/)  
-[HTTP权威指南](https://book.douban.com/subject/10746113/)  
-[Django企业开发实战](https://book.douban.com/subject/30434690/)  
-[JavaScript语言精粹 — 必读](https://book.douban.com/subject/3590768/)  
-[CSS权威指南（第三版） — 必读](https://book.douban.com/subject/2308234/)
+[图解HTTP — 零基础必读](https://item.jd.com/1179243750.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=fd56d83454434af7953d5d0df0c2c5bf)  
+[Django企业开发实战](https://item.jd.com/12537842.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=e74f4a006d274bfd9ff0a039609208c9)  
 
 #### 文档类（全学）
 [HTTP 协议入门_阮一峰 — 零基础必读](http://www.ruanyifeng.com/blog/2016/08/http.html)  
-[Django 官方文档翻译](https://docs.djangoproject.com/zh-hans/2.0/)  
-[JavaScript 教程](http://www.w3school.com.cn/js/index.asp)  
-[Vue.js 官方中文文档](https://cn.vuejs.org/v2/guide/index.html)
+[Django 3.0 官方文档](https://docs.djangoproject.com/zh-hans/3.0/)  
 
 * * *
 
-## 2.4 数据分析基础
+## 2.4 Web 前端
 
 #### 书籍类（任选）
-[Python数据科学手册](https://book.douban.com/subject/27667378/)  
-[Python数据分析](https://book.douban.com/subject/26274624/)  
-[Python数据挖掘入门与实践](https://book.douban.com/subject/26826540/)
+[JavaScript 语言精粹（修订版）](https://item.jd.com/11090963.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=805b7ab7e7a4406e97af470023f41dd5)
+[CSS 揭秘](https://item.jd.com/49883132371.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=518dad27c6e24318be217ac6391b7a74)
+[Vue.js 快速入门](https://item.jd.com/12517946.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=a6ed70c74a5949c28719ee3c824e387e)
+[深入 React 技术栈](https://item.jd.com/12068636.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=8bee6545d5b644309bcfe96fd755c41d)
+
+#### 文档类（全学）
+[JavaScript 教程](http://www.w3school.com.cn/js/index.asp)  
+[Vue.js 官方中文文档](https://cn.vuejs.org/v2/guide/index.html)
+[React 官方文档](https://www.reactjscn.com/docs/hello-world.html)
+[TypeScript 官方文档](https://www.tslang.cn/docs/home.html)
+
+* * *
+
+## 2.5 数据分析
+
+#### 书籍类（任选）
+[Python 数据科学手册](https://item.jd.com/29428299573.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=81d3ab8edd92497c9f654e9207e75dff)  
+[利用 Python 进行数据分析](https://item.jd.com/12398725.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=f0e26ff1309a432a8bec157e32638e09)  
 
 #### 文档类（全学）
 [Anaconda 教程](https://www.jianshu.com/p/62f155eb6ac5)  
@@ -98,11 +112,11 @@
 
 * * *
 
-## 2.5 机器学习
+## 2.6 机器学习
 
 #### 书籍类（任选）
-[机器学习 (西瓜书)](https://book.douban.com/subject/26708119/)  
-[机器学习实战](https://book.douban.com/subject/24703171/)
+[机器学习 (西瓜书)](https://item.jd.com/11867803.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=2f2a53c477cd4c2f84a3a2cf70a222f6)  
+[机器学习实战](https://item.jd.com/12128543.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=c4343287898b4740b16ab2f5f60edbb2)
 
 #### 视频类（任选）
 [吴恩达机器学习 \- 网易云课堂 — 免费 必学](https://study.163.com/course/courseMain.htm?courseId=1004570029)
@@ -112,11 +126,12 @@
 
 * * *
 
-## 3\. 数据库基础
+## 3\. 数据库
 
 #### 书籍类（任选）
-[高性能MySQL](https://book.douban.com/subject/23008813/)  
-[MongoDB权威指南](https://book.douban.com/subject/6068947/)
+[高性能 MySQL](https://item.jd.com/11220393.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=da846dfe1fa14db6a18bf1bed15e3869)  
+[MongoDB 权威指南](https://item.jd.com/11384782.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=0c7bacdc0b25430eb1a1ae9c486f3f15)
+[Redis 设计与实现](https://item.jd.com/11486101.html?cu=true&utm_source=kong&utm_medium=tuiguang&utm_campaign=t_1001542270_1000008160_0_1929571479&utm_term=940b141ea7bb4374a4eba79f6dee4d07)
 
 #### 文档类（全学）
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)  
@@ -142,7 +157,5 @@
 
 ## 欢迎关注
 
-微信公众号：面向人生编程
-
-![](https://static.zkqiang.cn/images/20190818175845.jpg-slim)
+![](http://static.zkqiang.cn/images/20191019181436.JPG-slim)
 
