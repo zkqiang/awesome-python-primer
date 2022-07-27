@@ -155,9 +155,3 @@
 [Twisted与异步编程入门 — Scrapy爬虫进阶](https://likebeta.gitbooks.io/twisted-intro-cn/content/zh/)  
 
 * * * 
-
-
-## 欢迎关注
-
-![](http://static.zkqiang.cn/images/20191019181436.JPG-slim)
-
